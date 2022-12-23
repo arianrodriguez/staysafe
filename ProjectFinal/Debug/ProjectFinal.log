@@ -1,0 +1,79 @@
+﻿  MenuPrincipal.cpp
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Entidad.h(36,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Entidad.h(37,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Entidad.h(83,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Entidad.h(83,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Jugador.h(15,1): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Vacuna.h(8,1): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Botiquin.h(17,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\BarraBalas.h(16,33): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\BarraBalas.h(21,33): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Pildora.h(14,34): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\GlobosTexto.h(10,1): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(78,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(114,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(168,66): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(168,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(170,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(172,74): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(172,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(177,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(179,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(179,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(183,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(183,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(213,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(274,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(279,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(283,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(303,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(304,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(313,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(315,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(338,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(350,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(367,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(377,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(384,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(391,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(398,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(417,44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador.h(425,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(81,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(121,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(175,66): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(175,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(177,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(179,74): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(179,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(184,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(186,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(186,43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(190,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(190,42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(220,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(276,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(281,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(285,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(305,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(306,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(315,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(317,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(338,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(350,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(367,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(377,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(384,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(391,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(398,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(417,44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Controlador2.h(425,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\MyForm.h(30,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\MyForm.h(63,82): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\MyForm.h(63,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\MenuPrincipal.h(524,108): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\MenuPrincipal.h(524,80): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  MenuPrincipal.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProjectFinal.vcxproj -> C:\Users\Arian\Desktop\v9.3\Debug\ProjectFinal.exe

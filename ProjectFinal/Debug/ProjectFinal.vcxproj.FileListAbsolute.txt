@@ -1,0 +1,25 @@
+D:\Ejercicios (Algoritmos)\Semana15\v7\ProjectFinal\Debug\ProjectFinal.vcxproj.AssemblyReference.cache
+D:\Ejercicios (Algoritmos)\Semana15\v7\ProjectFinal\Debug\ProjectFinal.vcxproj.SuggestedBindingRedirects.cache
+D:\Ejercicios (Algoritmos)\Semana15\v7\ProjectFinal\Debug\ProjectFinal.MenuPrincipal.resources
+D:\Ejercicios (Algoritmos)\Semana15\v7\ProjectFinal\Debug\ProjectFinal.MyForm.resources
+D:\Ejercicios (Algoritmos)\Semana15\v7\ProjectFinal\Debug\ProjectFinal.vcxproj.GenerateResource.cache
+C:\Users\Arian\Desktop\v7\ProjectFinal\Debug\ProjectFinal.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\v7\ProjectFinal\Debug\ProjectFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Arian\Desktop\v7\ProjectFinal\Debug\ProjectFinal.MenuPrincipal.resources
+C:\Users\Arian\Desktop\v7\ProjectFinal\Debug\ProjectFinal.MyForm.resources
+C:\Users\Arian\Desktop\v7\ProjectFinal\Debug\ProjectFinal.vcxproj.GenerateResource.cache
+C:\Users\Arian\Desktop\v9\ProjectFinal\Debug\ProjectFinal.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\v9\ProjectFinal\Debug\ProjectFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Arian\Desktop\v9\ProjectFinal\Debug\ProjectFinal.MenuPrincipal.resources
+C:\Users\Arian\Desktop\v9\ProjectFinal\Debug\ProjectFinal.MyForm.resources
+C:\Users\Arian\Desktop\v9\ProjectFinal\Debug\ProjectFinal.vcxproj.GenerateResource.cache
+D:\Ejercicios (Algoritmos)\Semana15\v9.1\ProjectFinal\Debug\ProjectFinal.vcxproj.AssemblyReference.cache
+D:\Ejercicios (Algoritmos)\Semana15\v9.1\ProjectFinal\Debug\ProjectFinal.vcxproj.SuggestedBindingRedirects.cache
+D:\Ejercicios (Algoritmos)\Semana15\v9.1\ProjectFinal\Debug\ProjectFinal.MenuPrincipal.resources
+D:\Ejercicios (Algoritmos)\Semana15\v9.1\ProjectFinal\Debug\ProjectFinal.MyForm.resources
+D:\Ejercicios (Algoritmos)\Semana15\v9.1\ProjectFinal\Debug\ProjectFinal.vcxproj.GenerateResource.cache
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Debug\ProjectFinal.vcxproj.AssemblyReference.cache
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Debug\ProjectFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Debug\ProjectFinal.MenuPrincipal.resources
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Debug\ProjectFinal.MyForm.resources
+C:\Users\Arian\Desktop\v9.3\ProjectFinal\Debug\ProjectFinal.vcxproj.GenerateResource.cache
